@@ -1,6 +1,6 @@
 // hello-universe.cpp
 // @absolutebunk:matrix.org
-// Why greet the world when one could great the universe? 
+// Why greet the world when one could greet the universe? 
 
 #include <iostream>
 
